@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<Movies>
+  <Movie id="1" title="The Shawshank Redemption" type="Drama" year="1994"></Movie>
+  <Movie id="2" title="The Godfather" type="Action" year="1972"></Movie>
+  <Movie id="3" title="The Godfather: Part II" type="Action" year="1974"></Movie>
+  <Movie id="4" title="The Dark Knight" type="Drama" year="2008"></Movie>
+  <Movie id="5" title="12 Angry Men" type="Comedy" year="1957"></Movie>
+</Movies>
